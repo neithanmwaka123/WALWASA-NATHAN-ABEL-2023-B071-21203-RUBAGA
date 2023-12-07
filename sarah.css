@@ -252,7 +252,7 @@ body{
     gap: 11px; 
 }
 .post-box{
-    width: 300px;
+    width: 200px;
 }
 .post-box img{
     width: 100%;
@@ -283,7 +283,7 @@ body{
 }
 .post-profile{
     display: flex;
-    align-items: center;
+    align-items:center;
 }
 .post-profile h3{
     font-size: 12px;
